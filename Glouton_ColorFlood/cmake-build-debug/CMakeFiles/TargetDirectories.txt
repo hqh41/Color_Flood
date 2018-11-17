@@ -1,0 +1,3 @@
+/Users/houqinghua/Desktop/color_flood/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/houqinghua/Desktop/color_flood/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/houqinghua/Desktop/color_flood/cmake-build-debug/CMakeFiles/color_flood.dir

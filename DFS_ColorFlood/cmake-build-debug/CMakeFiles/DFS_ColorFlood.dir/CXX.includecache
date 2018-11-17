@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/houqinghua/Desktop/DFS_ColorFlood/Node.h
+cstring
+-
+vector
+-
+iostream
+-
+
+/Users/houqinghua/Desktop/DFS_ColorFlood/play.cpp
+Node.h
+/Users/houqinghua/Desktop/DFS_ColorFlood/Node.h
+vector
+-
+queue
+-
+iostream
+-
+

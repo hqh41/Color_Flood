@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/houqinghua/Desktop/color_flood/glouton.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/houqinghua/Desktop/color_flood/ini_flood.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+glouton.h
+/Users/houqinghua/Desktop/color_flood/glouton.h
+
+/Users/houqinghua/Desktop/color_flood/play.c
+ini_flood.h
+/Users/houqinghua/Desktop/color_flood/ini_flood.h
+
